@@ -81,8 +81,7 @@ li {
 }
 
 @media (max-width: 800px) {
-  body {
-    width: 100%;
+
   }
   main {
     grid-template-columns: 1fr;
@@ -90,7 +89,6 @@ li {
     align-items: center;
     text-align: center;
     grid-auto-rows: auto;
-    width: 100%;
   }
   .fotoDiv {
     flex-direction: column;
